@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "salome4u"
+      "value": "kenuserplay"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -27,11 +27,11 @@
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "27526831"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "4ac8adc8e672340a381a482be15099d3"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
