@@ -33,6 +33,14 @@
       "description": "Dapatkan API HASH di web my.telegram.org",
       "value": "4ac8adc8e672340a381a482be15099d3"
     },
+    "DATABASE_URL": {
+      "description": "Paste your mongo db url",
+      "value": "url"
+    },
+    "DATABASE_NAME":{
+      "description": "Enter your DATABASE_NAME ",
+      "value": "filesharexbot" 
+    },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
       "value": "-100"
