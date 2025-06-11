@@ -1,7 +1,7 @@
 feedparser
 psycopg2-binary
 heroku3
-git+https://github.com/KurimuzonAkuma/pyrogram
+pyrofork
 python-dotenv
 Pyromod
 speedtest-cli
